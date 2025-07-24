@@ -8,12 +8,12 @@ This program starts with the declaration and initialization of two variables a a
 
 Algorithm:
 
-Start
-Initialize two integers
-Perform Bitwise Operations
-Perform Shift Operations
-Display Results
-End
+Step- 1: Start
+Step- 2: Initialize two integers
+Step- 3: Perform Bitwise Operations
+Step- 4: Perform Shift Operations
+Step- 5: Display Results
+Step- 6: End
 
 #Program b : Setting and Resetting the bit
 
@@ -21,11 +21,11 @@ The program begins by creating an variable 'a' and assigning it a value of 128. 
 
 Algorithm:
 
-Start
-Initialize Variables
-Input Operations
-Bit Manipulation
-Set the chosen bit:
-Output Results
-End
+Step- 1: Start
+Step- 2: Initialize Variables
+Step- 3: Input Operations
+Step- 4: Bit Manipulation
+Step- 5: Set the chosen bit:
+Step- 6: Output Results
+Step- 7: End
 Conclusion: We created a program for setting and resetting of a bit and also about all the bitwise operators in C++.

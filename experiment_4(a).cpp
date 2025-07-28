@@ -1,3 +1,7 @@
+// Navya Pawan Khajuria 
+// 24070123151
+// B3
+
 #include <iostream>
 using namespace std;
 int main() { 
@@ -22,3 +26,14 @@ int main() {
     cout << "Right shift of b: " << rB << "\n";
     return 0;
 }
+
+//Output:
+//Bitwise AND: 10
+//Bitwise OR: 14
+//Bitwise XOR: 4
+//Bitwise NOT of a: -11
+//Bitwise NOT of b: -15
+//Left shift of a: 20
+//Left shift of b: 28
+//Right shift of a: 5
+//Right shift of b: 7

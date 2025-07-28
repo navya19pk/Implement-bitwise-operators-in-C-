@@ -1,3 +1,7 @@
+// Navya Pawan Khajuria 
+// 24070123151
+// B3
+
 #include <iostream>
 using namespace std;
 int main() {
@@ -13,3 +17,9 @@ int main() {
     cout << "After resetting bit " << bit_reset << ": " << bit_resetting << "\n";
     return 0;
 }
+
+//Output:
+//enter the bit which need to be set: 5
+//enter the bit which need to be reset: 3
+//After setting bit 5: 160
+//After resetting bit 3: 128
